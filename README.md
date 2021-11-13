@@ -11,5 +11,7 @@
     <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img aling="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Sartori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
